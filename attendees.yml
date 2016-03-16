@@ -14,4 +14,3 @@ security:
 management:
   security:
     enabled: false
-mensagem: "Ola mundo!"
