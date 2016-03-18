@@ -1,3 +1,4 @@
+infoMessage="Hello from PCF Demo!"
 spring:
   application:
     name: attendees
