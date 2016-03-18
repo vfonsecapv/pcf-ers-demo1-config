@@ -1,4 +1,4 @@
-infoMessage: "Hello from PCF Demo 2!"
+infoMessage: "Hello from PCF Demo!"
 spring:
   application:
     name: attendees
